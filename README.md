@@ -1,3 +1,3 @@
 # KineFlow
 
-The code will coming soon.
+The code is coming soon.
